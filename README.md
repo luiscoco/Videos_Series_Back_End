@@ -346,5 +346,31 @@ Kafka_Csharp_Producer: https://github.com/luiscoco/Kafka_Csharp_Producer
 
 Node.js, Express & MongoDb: Build a CRUD Rest Api example: https://www.bezkoder.com/node-express-mongodb-crud-rest-api/
 
+## 1.10. NodeJS_Express
+
+NodeJS_Express-01-adding-middleware: https://github.com/luiscoco/NodeJS_Express-01-adding-middleware
+
+NodeJS_Express-03-handling-different-routes: https://github.com/luiscoco/NodeJS_Express-03-handling-different-routes
+
+NodeJS_Express-04-limiting-middleware-execution-to-post-requests: https://github.com/luiscoco/NodeJS_Express-04-limiting-middleware-execution-to-post-requests
+
+NodeJS_Express-05-using-express-router: https://github.com/luiscoco/NodeJS_Express-05-using-express-router
+
+NodeJS_Express-06-filtering-paths: https://github.com/luiscoco/NodeJS_Express-06-filtering-paths
+
+NodeJS_Express-07-creating-the-html-files: https://github.com/luiscoco/NodeJS_Express-07-creating-the-html-files
+
+NodeJS_Express-08-serving-the-html-files: https://github.com/luiscoco/NodeJS_Express-08-serving-the-html-files
+
+NodeJS_Express-09-returning-a-404-html-page: https://github.com/luiscoco/NodeJS_Express-09-returning-a-404-html-page
+
+NodeJS_Express-10-using-a-helper-function: https://github.com/luiscoco/NodeJS_Express-10-using-a-helper-function
+
+NodeJS_Express-11-styling-our-pages: https://github.com/luiscoco/NodeJS_Express-11-styling-our-pages
+
+NodeJS_Express-12-serving-files-statically: https://github.com/luiscoco/NodeJS_Express-12-serving-files-statically
+
+
+
 
 
